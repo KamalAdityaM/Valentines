@@ -1,0 +1,14 @@
+body{
+  background-color: #756AB6;
+  overflow-x: hidden;
+
+}
+
+#poem{
+  font-family: Caveat;
+  font-size: 3rem;
+  position: absolute;
+  left: 5vw;
+  top: 7vh;
+  text-align:left;
+}
